@@ -1,0 +1,192 @@
+{
+  "project/Restaurant3D/backend/.prettierrc.json": {
+    "mtime": 1785553402.9799523,
+    "ast_hash": "2a5ea2388f2295653964d14736add604",
+    "semantic_hash": "2a5ea2388f2295653964d14736add604"
+  },
+  "project/Restaurant3D/backend/eslint.config.js": {
+    "mtime": 1785553376.8618932,
+    "ast_hash": "f9145c9fe19d6706e8725bf85c610986",
+    "semantic_hash": "f9145c9fe19d6706e8725bf85c610986"
+  },
+  "project/Restaurant3D/backend/package.json": {
+    "mtime": 1785591177.2022054,
+    "ast_hash": "e6e17ef277d52f9cf3ade034187a8571",
+    "semantic_hash": "e6e17ef277d52f9cf3ade034187a8571"
+  },
+  "project/Restaurant3D/backend/prisma.config.ts": {
+    "mtime": 1785553059.3144104,
+    "ast_hash": "f6143a6083213d512c0beaa8d98daf63",
+    "semantic_hash": "f6143a6083213d512c0beaa8d98daf63"
+  },
+  "project/Restaurant3D/backend/prisma/migrations/20260801031715_init_restaurant_onboarding/migration.sql": {
+    "mtime": 1785554235.691878,
+    "ast_hash": "38819838be4b6d20e29434c79b1565a0",
+    "semantic_hash": "38819838be4b6d20e29434c79b1565a0"
+  },
+  "project/Restaurant3D/backend/src/middlewares/authenticate.test.ts": {
+    "mtime": 1785591213.4329271,
+    "ast_hash": "dcc38049646f240f2cefa15014fc08f7",
+    "semantic_hash": "dcc38049646f240f2cefa15014fc08f7"
+  },
+  "project/Restaurant3D/backend/src/middlewares/authenticate.ts": {
+    "mtime": 1785590998.8855069,
+    "ast_hash": "a4127b8e088ff6df3d258f02ee0b22e9",
+    "semantic_hash": "a4127b8e088ff6df3d258f02ee0b22e9"
+  },
+  "project/Restaurant3D/backend/src/middlewares/errorHandler.ts": {
+    "mtime": 1785590060.844216,
+    "ast_hash": "ca5f5c63ee90e82aa20da38b206d72f3",
+    "semantic_hash": "ca5f5c63ee90e82aa20da38b206d72f3"
+  },
+  "project/Restaurant3D/backend/src/middlewares/validateRequest.ts": {
+    "mtime": 1785589656.2433915,
+    "ast_hash": "e7d199ebc9e3150ef0db8e637c1cc018",
+    "semantic_hash": "e7d199ebc9e3150ef0db8e637c1cc018"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/invitation-code.ts": {
+    "mtime": 1785589688.9509103,
+    "ast_hash": "a4b7b6a92cef8053902474dce5821adf",
+    "semantic_hash": "a4b7b6a92cef8053902474dce5821adf"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/restaurant.repository.ts": {
+    "mtime": 1785589703.4653764,
+    "ast_hash": "38743afb79b119f925431c01cf5e4a77",
+    "semantic_hash": "38743afb79b119f925431c01cf5e4a77"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/restaurants.controller.ts": {
+    "mtime": 1785589726.473244,
+    "ast_hash": "bd2a5e0c2a4a694671732f3c95991540",
+    "semantic_hash": "bd2a5e0c2a4a694671732f3c95991540"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/restaurants.routes.ts": {
+    "mtime": 1785589733.4604826,
+    "ast_hash": "af17c92d5ea7af6b4f8d63b83a33f0ca",
+    "semantic_hash": "af17c92d5ea7af6b4f8d63b83a33f0ca"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/restaurants.schema.ts": {
+    "mtime": 1785589696.874908,
+    "ast_hash": "810eb4569489990d4a5e3beb4ac9d672",
+    "semantic_hash": "810eb4569489990d4a5e3beb4ac9d672"
+  },
+  "project/Restaurant3D/backend/src/modules/restaurants/restaurants.service.ts": {
+    "mtime": 1785589720.72093,
+    "ast_hash": "ab6b050544278e76802529578f536f6f",
+    "semantic_hash": "ab6b050544278e76802529578f536f6f"
+  },
+  "project/Restaurant3D/backend/src/modules/users/restaurant-user.repository.ts": {
+    "mtime": 1785589708.9518504,
+    "ast_hash": "5e54fa01a067ee6ddc4bb4d3f85e21e5",
+    "semantic_hash": "5e54fa01a067ee6ddc4bb4d3f85e21e5"
+  },
+  "project/Restaurant3D/backend/src/prisma/client.ts": {
+    "mtime": 1785553471.7624226,
+    "ast_hash": "37a4025e21d98d38f351cb1f97e8695d",
+    "semantic_hash": "37a4025e21d98d38f351cb1f97e8695d"
+  },
+  "project/Restaurant3D/backend/src/scripts/generate-invitation-code.ts": {
+    "mtime": 1785589753.6041427,
+    "ast_hash": "379dea2987828beb4d564df118d4f562",
+    "semantic_hash": "379dea2987828beb4d564df118d4f562"
+  },
+  "project/Restaurant3D/backend/src/server.ts": {
+    "mtime": 1785589745.8714628,
+    "ast_hash": "cbcc8ef591f1f3cb85dbd73aa85c7761",
+    "semantic_hash": "cbcc8ef591f1f3cb85dbd73aa85c7761"
+  },
+  "project/Restaurant3D/backend/src/shared/errors/AppError.ts": {
+    "mtime": 1785589637.37675,
+    "ast_hash": "89f1dc170fc5538f004e2910f86b27d3",
+    "semantic_hash": "89f1dc170fc5538f004e2910f86b27d3"
+  },
+  "project/Restaurant3D/backend/src/shared/security/passwordHasher.ts": {
+    "mtime": 1785589662.059268,
+    "ast_hash": "ac4c94ccd7be91b5c04550d09d7640fc",
+    "semantic_hash": "ac4c94ccd7be91b5c04550d09d7640fc"
+  },
+  "project/Restaurant3D/backend/src/shared/security/tokens.ts": {
+    "mtime": 1785590979.2283785,
+    "ast_hash": "6c1d04f61a62bf6bad9c66b0491d0c40",
+    "semantic_hash": "6c1d04f61a62bf6bad9c66b0491d0c40"
+  },
+  "project/Restaurant3D/backend/src/shared/types/express.d.ts": {
+    "mtime": 1785590988.828303,
+    "ast_hash": "a7e5582b5b90ad8906dcf70df045f662",
+    "semantic_hash": "a7e5582b5b90ad8906dcf70df045f662"
+  },
+  "project/Restaurant3D/backend/tsconfig.build.json": {
+    "mtime": 1785591166.8336296,
+    "ast_hash": "73af4e0c81dcfa6eafc538061938b7da",
+    "semantic_hash": "73af4e0c81dcfa6eafc538061938b7da"
+  },
+  "project/Restaurant3D/backend/tsconfig.json": {
+    "mtime": 1785591162.3854458,
+    "ast_hash": "7f89241d394028718889a8aaddd952f9",
+    "semantic_hash": "7f89241d394028718889a8aaddd952f9"
+  },
+  "project/Restaurant3D/backend/vitest.config.ts": {
+    "mtime": 1785591033.8355978,
+    "ast_hash": "055f1f040e0b411dbbb0230037f4358b",
+    "semantic_hash": "055f1f040e0b411dbbb0230037f4358b"
+  },
+  "project/Restaurant3D/frontend/.prettierrc.json": {
+    "mtime": 1785552464.579617,
+    "ast_hash": "2a5ea2388f2295653964d14736add604",
+    "semantic_hash": "2a5ea2388f2295653964d14736add604"
+  },
+  "project/Restaurant3D/frontend/eslint.config.js": {
+    "mtime": 1785552463.5183663,
+    "ast_hash": "a6aea8d3fc2980c188ae9294fa7f4718",
+    "semantic_hash": "a6aea8d3fc2980c188ae9294fa7f4718"
+  },
+  "project/Restaurant3D/frontend/package.json": {
+    "mtime": 1785552456.565923,
+    "ast_hash": "6a75a10fab1daf63b22a2576b162e9ae",
+    "semantic_hash": "6a75a10fab1daf63b22a2576b162e9ae"
+  },
+  "project/Restaurant3D/frontend/src/app/App.tsx": {
+    "mtime": 1785552364.54365,
+    "ast_hash": "c73cb5a19e2d7445fc4a11e4d1462b81",
+    "semantic_hash": "c73cb5a19e2d7445fc4a11e4d1462b81"
+  },
+  "project/Restaurant3D/frontend/src/main.tsx": {
+    "mtime": 1785552365.6048734,
+    "ast_hash": "1d1bc35869eb56a1ae2b0906b08e2dbb",
+    "semantic_hash": "1d1bc35869eb56a1ae2b0906b08e2dbb"
+  },
+  "project/Restaurant3D/frontend/src/routes/index.tsx": {
+    "mtime": 1785552363.0668108,
+    "ast_hash": "cdaf755b6aa73205245e94f211b173be",
+    "semantic_hash": "cdaf755b6aa73205245e94f211b173be"
+  },
+  "project/Restaurant3D/frontend/src/shared/api/queryClient.ts": {
+    "mtime": 1785552360.532926,
+    "ast_hash": "14fa18980b3f812bb280c8e28fca2f7e",
+    "semantic_hash": "14fa18980b3f812bb280c8e28fca2f7e"
+  },
+  "project/Restaurant3D/frontend/tailwind.config.ts": {
+    "mtime": 1785552383.4827068,
+    "ast_hash": "4df314356df6581766ac2d9451bfa181",
+    "semantic_hash": "4df314356df6581766ac2d9451bfa181"
+  },
+  "project/Restaurant3D/frontend/tsconfig.app.json": {
+    "mtime": 1785552414.9566958,
+    "ast_hash": "46109f1d5276bd718d49b05548c42f7d",
+    "semantic_hash": "46109f1d5276bd718d49b05548c42f7d"
+  },
+  "project/Restaurant3D/frontend/tsconfig.json": {
+    "mtime": 1785551854.805939,
+    "ast_hash": "a3d39fa780ebff65444de257f291ce6c",
+    "semantic_hash": "a3d39fa780ebff65444de257f291ce6c"
+  },
+  "project/Restaurant3D/frontend/tsconfig.node.json": {
+    "mtime": 1785551854.8109443,
+    "ast_hash": "f9cb81ddcea69ffdab672fc8c48dca66",
+    "semantic_hash": "f9cb81ddcea69ffdab672fc8c48dca66"
+  },
+  "project/Restaurant3D/frontend/vite.config.ts": {
+    "mtime": 1785552525.936773,
+    "ast_hash": "9fb984f476461c346f0c6ed0f516bfab",
+    "semantic_hash": "9fb984f476461c346f0c6ed0f516bfab"
+  }
+}

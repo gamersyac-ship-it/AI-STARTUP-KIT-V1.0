@@ -1,0 +1,536 @@
+{
+  "communities": {
+    "0": [
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_db",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_restaurantrepository",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_restaurantrepository_constructor",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_restaurantrepository_create",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_restaurantrepository_findbyslug",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_controller",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_controller_onboardrestaurant",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_controller_restaurantsservice",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_schema",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_schema_onboardingrequestdto",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_schema_onboardingrequestschema",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_schema_onboardingresponsedto",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_service",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_service_restaurantsservice",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_service_restaurantsservice_constructor",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_service_restaurantsservice_onboard",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_db",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_restaurantuserrepository",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_restaurantuserrepository_constructor",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_restaurantuserrepository_create",
+      "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_restaurantuserrepository_findbyemail",
+      "project_restaurant3d_backend_src_prisma_client",
+      "project_restaurant3d_backend_src_prisma_client_adapter",
+      "project_restaurant3d_backend_src_prisma_client_prisma",
+      "project_restaurant3d_backend_src_shared_security_passwordhasher",
+      "project_restaurant3d_backend_src_shared_security_passwordhasher_hashpassword",
+      "project_restaurant3d_backend_src_shared_security_passwordhasher_verifypassword",
+      "project_restaurant3d_backend_src_shared_security_tokens",
+      "project_restaurant3d_backend_src_shared_security_tokens_accesstokenverificationresult",
+      "project_restaurant3d_backend_src_shared_security_tokens_requireenv",
+      "project_restaurant3d_backend_src_shared_security_tokens_sessiontokenpayload",
+      "project_restaurant3d_backend_src_shared_security_tokens_signaccesstoken",
+      "project_restaurant3d_backend_src_shared_security_tokens_signrefreshtoken",
+      "project_restaurant3d_backend_src_shared_security_tokens_verifyaccesstoken"
+    ],
+    "1": [
+      "project_restaurant3d_frontend_tsconfig_app",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_allowarbitraryextensions",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_allowimportingtsextensions",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_erasablesyntaxonly",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_jsx",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_lib",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_module",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_moduledetection",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_moduleresolution",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_noemit",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_nounusedlocals",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_nounusedparameters",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_paths",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_skiplibcheck",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_target",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_tsbuildinfofile",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_types",
+      "project_restaurant3d_frontend_tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "project_restaurant3d_frontend_tsconfig_app_include",
+      "project_restaurant3d_frontend_tsconfig_app_json_ref_es2023",
+      "project_restaurant3d_frontend_tsconfig_app_json_ref_src",
+      "ref_dom",
+      "ref_vite_client"
+    ],
+    "2": [
+      "project_restaurant3d_backend_package",
+      "project_restaurant3d_backend_package_author",
+      "project_restaurant3d_backend_package_description",
+      "project_restaurant3d_backend_package_keywords",
+      "project_restaurant3d_backend_package_license",
+      "project_restaurant3d_backend_package_main",
+      "project_restaurant3d_backend_package_name",
+      "project_restaurant3d_backend_package_scripts",
+      "project_restaurant3d_backend_package_scripts_build",
+      "project_restaurant3d_backend_package_scripts_dev",
+      "project_restaurant3d_backend_package_scripts_format",
+      "project_restaurant3d_backend_package_scripts_format_check",
+      "project_restaurant3d_backend_package_scripts_invitation_generate",
+      "project_restaurant3d_backend_package_scripts_lint",
+      "project_restaurant3d_backend_package_scripts_lint_fix",
+      "project_restaurant3d_backend_package_scripts_prisma_generate",
+      "project_restaurant3d_backend_package_scripts_prisma_migrate",
+      "project_restaurant3d_backend_package_scripts_start",
+      "project_restaurant3d_backend_package_scripts_test",
+      "project_restaurant3d_backend_package_scripts_test_watch",
+      "project_restaurant3d_backend_package_scripts_typecheck",
+      "project_restaurant3d_backend_package_type",
+      "project_restaurant3d_backend_package_version"
+    ],
+    "3": [
+      "project_restaurant3d_frontend_package",
+      "project_restaurant3d_frontend_package_dependencies",
+      "project_restaurant3d_frontend_package_dependencies_react",
+      "project_restaurant3d_frontend_package_dependencies_react_dom",
+      "project_restaurant3d_frontend_package_dependencies_react_router_dom",
+      "project_restaurant3d_frontend_package_dependencies_tanstack_react_query",
+      "project_restaurant3d_frontend_package_name",
+      "project_restaurant3d_frontend_package_private",
+      "project_restaurant3d_frontend_package_scripts",
+      "project_restaurant3d_frontend_package_scripts_build",
+      "project_restaurant3d_frontend_package_scripts_dev",
+      "project_restaurant3d_frontend_package_scripts_format",
+      "project_restaurant3d_frontend_package_scripts_format_check",
+      "project_restaurant3d_frontend_package_scripts_lint",
+      "project_restaurant3d_frontend_package_scripts_lint_fix",
+      "project_restaurant3d_frontend_package_scripts_preview",
+      "project_restaurant3d_frontend_package_scripts_typecheck",
+      "project_restaurant3d_frontend_package_type",
+      "project_restaurant3d_frontend_package_version",
+      "react",
+      "react_dom",
+      "react_router_dom",
+      "tanstack_react_query"
+    ],
+    "4": [
+      "bcryptjs",
+      "cors",
+      "dotenv",
+      "express",
+      "helmet",
+      "jsonwebtoken",
+      "morgan",
+      "prisma_adapter_mariadb",
+      "prisma_client",
+      "project_restaurant3d_backend_package_dependencies",
+      "project_restaurant3d_backend_package_dependencies_bcryptjs",
+      "project_restaurant3d_backend_package_dependencies_cors",
+      "project_restaurant3d_backend_package_dependencies_dotenv",
+      "project_restaurant3d_backend_package_dependencies_express",
+      "project_restaurant3d_backend_package_dependencies_helmet",
+      "project_restaurant3d_backend_package_dependencies_jsonwebtoken",
+      "project_restaurant3d_backend_package_dependencies_morgan",
+      "project_restaurant3d_backend_package_dependencies_prisma_adapter_mariadb",
+      "project_restaurant3d_backend_package_dependencies_prisma_client",
+      "project_restaurant3d_backend_package_dependencies_zod",
+      "zod"
+    ],
+    "5": [
+      "project_restaurant3d_backend_package_devdependencies",
+      "project_restaurant3d_backend_package_devdependencies_eslint",
+      "project_restaurant3d_backend_package_devdependencies_prettier",
+      "project_restaurant3d_backend_package_devdependencies_supertest",
+      "project_restaurant3d_backend_package_devdependencies_tsx",
+      "project_restaurant3d_backend_package_devdependencies_types_bcryptjs",
+      "project_restaurant3d_backend_package_devdependencies_types_express",
+      "project_restaurant3d_backend_package_devdependencies_types_jsonwebtoken",
+      "project_restaurant3d_backend_package_devdependencies_types_supertest",
+      "project_restaurant3d_backend_package_devdependencies_vitest",
+      "project_restaurant3d_backend_package_json_eslint",
+      "project_restaurant3d_backend_package_json_prettier",
+      "project_restaurant3d_frontend_package_devdependencies_eslint",
+      "supertest",
+      "tsx",
+      "types_bcryptjs",
+      "types_express",
+      "types_jsonwebtoken",
+      "types_supertest",
+      "vitest"
+    ],
+    "6": [
+      "project_restaurant3d_frontend_tsconfig_node",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_allowimportingtsextensions",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_erasablesyntaxonly",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_lib",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_module",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_moduledetection",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_noemit",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_nounusedlocals",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_nounusedparameters",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_skiplibcheck",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_target",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_tsbuildinfofile",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_types",
+      "project_restaurant3d_frontend_tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "project_restaurant3d_frontend_tsconfig_node_include",
+      "project_restaurant3d_frontend_tsconfig_node_json_ref_es2023",
+      "ref_node",
+      "ref_vite_config_ts"
+    ],
+    "7": [
+      "eslint_plugin_react_hooks",
+      "eslint_plugin_react_refresh",
+      "project_restaurant3d_frontend_package_devdependencies",
+      "project_restaurant3d_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "project_restaurant3d_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "project_restaurant3d_frontend_package_devdependencies_prettier",
+      "project_restaurant3d_frontend_package_devdependencies_tailwindcss",
+      "project_restaurant3d_frontend_package_devdependencies_tailwindcss_vite",
+      "project_restaurant3d_frontend_package_devdependencies_types_react",
+      "project_restaurant3d_frontend_package_devdependencies_types_react_dom",
+      "project_restaurant3d_frontend_package_devdependencies_vite",
+      "project_restaurant3d_frontend_package_devdependencies_vitejs_plugin_react",
+      "project_restaurant3d_frontend_package_json_prettier",
+      "tailwindcss",
+      "tailwindcss_vite",
+      "types_react",
+      "types_react_dom",
+      "vite",
+      "vitejs_plugin_react"
+    ],
+    "8": [
+      "project_restaurant3d_backend_src_middlewares_authenticate",
+      "project_restaurant3d_backend_src_middlewares_authenticate_authenticate",
+      "project_restaurant3d_backend_src_middlewares_authenticate_test",
+      "project_restaurant3d_backend_src_middlewares_authenticate_test_buildtestapp",
+      "project_restaurant3d_backend_src_middlewares_authenticate_test_fakerequest",
+      "project_restaurant3d_backend_src_middlewares_errorhandler",
+      "project_restaurant3d_backend_src_middlewares_errorhandler_errorhandler",
+      "project_restaurant3d_backend_src_middlewares_validaterequest",
+      "project_restaurant3d_backend_src_middlewares_validaterequest_validaterequest",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_routes",
+      "project_restaurant3d_backend_src_modules_restaurants_restaurants_routes_restaurantsrouter",
+      "project_restaurant3d_backend_src_server",
+      "project_restaurant3d_backend_src_server_app",
+      "project_restaurant3d_backend_src_shared_errors_apperror",
+      "project_restaurant3d_backend_src_shared_errors_apperror_apperror",
+      "project_restaurant3d_backend_src_shared_errors_apperror_apperror_constructor",
+      "project_restaurant3d_backend_src_shared_errors_apperror_errordetail"
+    ],
+    "9": [
+      "project_restaurant3d_backend_tsconfig_compileroptions",
+      "project_restaurant3d_backend_tsconfig_compileroptions_esmoduleinterop",
+      "project_restaurant3d_backend_tsconfig_compileroptions_forceconsistentcasinginfilenames",
+      "project_restaurant3d_backend_tsconfig_compileroptions_lib",
+      "project_restaurant3d_backend_tsconfig_compileroptions_module",
+      "project_restaurant3d_backend_tsconfig_compileroptions_moduleresolution",
+      "project_restaurant3d_backend_tsconfig_compileroptions_nofallthroughcasesinswitch",
+      "project_restaurant3d_backend_tsconfig_compileroptions_nounusedlocals",
+      "project_restaurant3d_backend_tsconfig_compileroptions_nounusedparameters",
+      "project_restaurant3d_backend_tsconfig_compileroptions_outdir",
+      "project_restaurant3d_backend_tsconfig_compileroptions_paths",
+      "project_restaurant3d_backend_tsconfig_compileroptions_resolvejsonmodule",
+      "project_restaurant3d_backend_tsconfig_compileroptions_rootdir",
+      "project_restaurant3d_backend_tsconfig_compileroptions_skiplibcheck",
+      "project_restaurant3d_backend_tsconfig_compileroptions_strict",
+      "project_restaurant3d_backend_tsconfig_compileroptions_target",
+      "project_restaurant3d_backend_tsconfig_json_ref_es2023"
+    ],
+    "10": [
+      "project_restaurant3d_backend_tsconfig",
+      "project_restaurant3d_backend_tsconfig_build",
+      "project_restaurant3d_backend_tsconfig_build_exclude",
+      "project_restaurant3d_backend_tsconfig_build_extends",
+      "project_restaurant3d_backend_tsconfig_build_json_ref_dist",
+      "project_restaurant3d_backend_tsconfig_exclude",
+      "project_restaurant3d_backend_tsconfig_include",
+      "project_restaurant3d_backend_tsconfig_json_ref_dist",
+      "project_restaurant3d_backend_tsconfig_json_ref_generated",
+      "project_restaurant3d_backend_tsconfig_json_ref_node_modules",
+      "project_restaurant3d_backend_tsconfig_json_ref_src",
+      "ref_src_test_ts",
+      "ref_tsconfig_json"
+    ],
+    "11": [
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_generateinvitationcode",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_getsecret",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_invitationpayload",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_invitationverificationresult",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_sign",
+      "project_restaurant3d_backend_src_modules_restaurants_invitation_code_verifyinvitationcode",
+      "project_restaurant3d_backend_src_scripts_generate_invitation_code",
+      "project_restaurant3d_backend_src_scripts_generate_invitation_code_code"
+    ],
+    "12": [
+      "project_restaurant3d_frontend_src_app_app",
+      "project_restaurant3d_frontend_src_app_app_app",
+      "project_restaurant3d_frontend_src_main",
+      "project_restaurant3d_frontend_src_routes_index",
+      "project_restaurant3d_frontend_src_routes_index_router",
+      "project_restaurant3d_frontend_src_shared_api_queryclient",
+      "project_restaurant3d_frontend_src_shared_api_queryclient_queryclient"
+    ],
+    "13": [
+      "project_restaurant3d_backend_prettierrc",
+      "project_restaurant3d_backend_prettierrc_printwidth",
+      "project_restaurant3d_backend_prettierrc_semi",
+      "project_restaurant3d_backend_prettierrc_singlequote",
+      "project_restaurant3d_backend_prettierrc_tabwidth",
+      "project_restaurant3d_backend_prettierrc_trailingcomma"
+    ],
+    "14": [
+      "project_restaurant3d_frontend_prettierrc",
+      "project_restaurant3d_frontend_prettierrc_printwidth",
+      "project_restaurant3d_frontend_prettierrc_semi",
+      "project_restaurant3d_frontend_prettierrc_singlequote",
+      "project_restaurant3d_frontend_prettierrc_tabwidth",
+      "project_restaurant3d_frontend_prettierrc_trailingcomma"
+    ],
+    "15": [
+      "project_restaurant3d_backend_src_shared_types_express_d",
+      "project_restaurant3d_backend_src_shared_types_express_d_authcontext",
+      "project_restaurant3d_backend_src_shared_types_express_d_express",
+      "project_restaurant3d_backend_src_shared_types_express_d_request"
+    ],
+    "16": [
+      "project_restaurant3d_backend_package_devdependencies_eslint_config_prettier",
+      "project_restaurant3d_backend_package_json_eslint_config_prettier",
+      "project_restaurant3d_frontend_package_devdependencies_eslint_config_prettier"
+    ],
+    "17": [
+      "project_restaurant3d_backend_package_devdependencies_eslint_js",
+      "project_restaurant3d_backend_package_json_eslint_js",
+      "project_restaurant3d_frontend_package_devdependencies_eslint_js"
+    ],
+    "18": [
+      "project_restaurant3d_backend_package_devdependencies_globals",
+      "project_restaurant3d_backend_package_json_globals",
+      "project_restaurant3d_frontend_package_devdependencies_globals"
+    ],
+    "19": [
+      "project_restaurant3d_backend_package_devdependencies_types_node",
+      "project_restaurant3d_backend_package_json_types_node",
+      "project_restaurant3d_frontend_package_devdependencies_types_node"
+    ],
+    "20": [
+      "project_restaurant3d_backend_package_devdependencies_typescript",
+      "project_restaurant3d_backend_package_json_typescript",
+      "project_restaurant3d_frontend_package_devdependencies_typescript"
+    ],
+    "21": [
+      "project_restaurant3d_backend_package_devdependencies_typescript_eslint",
+      "project_restaurant3d_backend_package_json_typescript_eslint",
+      "project_restaurant3d_frontend_package_devdependencies_typescript_eslint"
+    ],
+    "22": [
+      "project_restaurant3d_frontend_tsconfig",
+      "project_restaurant3d_frontend_tsconfig_files",
+      "project_restaurant3d_frontend_tsconfig_references"
+    ],
+    "23": [
+      "prisma",
+      "project_restaurant3d_backend_package_devdependencies_prisma"
+    ],
+    "24": [
+      "project_restaurant3d_backend_package_devdependencies_types_cors",
+      "types_cors"
+    ],
+    "25": [
+      "project_restaurant3d_backend_package_devdependencies_types_morgan",
+      "types_morgan"
+    ],
+    "26": [
+      "project_restaurant3d_backend_eslint_config"
+    ],
+    "27": [
+      "project_restaurant3d_backend_prisma_config"
+    ],
+    "28": [
+      "project_restaurant3d_backend_vitest_config"
+    ],
+    "29": [
+      "project_restaurant3d_frontend_eslint_config"
+    ],
+    "30": [
+      "project_restaurant3d_frontend_tailwind_config"
+    ],
+    "31": [
+      "project_restaurant3d_frontend_vite_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09523809523809523,
+    "1": 0.08,
+    "2": 0.08695652173913043,
+    "3": 0.08695652173913043,
+    "4": 0.09523809523809523,
+    "5": 0.1,
+    "6": 0.1,
+    "7": 0.10526315789473684,
+    "8": 0.19852941176470587,
+    "9": 0.11764705882352941,
+    "10": 0.16666666666666666,
+    "11": 0.3611111111111111,
+    "12": 0.42857142857142855,
+    "13": 0.3333333333333333,
+    "14": 0.3333333333333333,
+    "15": 0.5,
+    "16": 0.6666666666666666,
+    "17": 0.6666666666666666,
+    "18": 0.6666666666666666,
+    "19": 0.6666666666666666,
+    "20": 0.6666666666666666,
+    "21": 0.6666666666666666,
+    "22": 0.6666666666666666,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0
+  },
+  "gods": [
+    {
+      "id": "project_restaurant3d_frontend_tsconfig_app_compileroptions",
+      "label": "compilerOptions",
+      "degree": 19
+    },
+    {
+      "id": "project_restaurant3d_backend_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "project_restaurant3d_frontend_tsconfig_node_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "project_restaurant3d_backend_package_scripts",
+      "label": "scripts",
+      "degree": 14
+    },
+    {
+      "id": "project_restaurant3d_frontend_package_scripts",
+      "label": "scripts",
+      "degree": 9
+    },
+    {
+      "id": "project_restaurant3d_backend_src_shared_errors_apperror_apperror",
+      "label": "AppError",
+      "degree": 7
+    },
+    {
+      "id": "project_restaurant3d_backend_src_modules_restaurants_invitation_code_verifyinvitationcode",
+      "label": "verifyInvitationCode()",
+      "degree": 5
+    },
+    {
+      "id": "project_restaurant3d_backend_src_modules_restaurants_restaurant_repository_restaurantrepository",
+      "label": "RestaurantRepository",
+      "degree": 5
+    },
+    {
+      "id": "project_restaurant3d_backend_src_modules_users_restaurant_user_repository_restaurantuserrepository",
+      "label": "RestaurantUserRepository",
+      "degree": 5
+    },
+    {
+      "id": "project_restaurant3d_backend_tsconfig_build_exclude",
+      "label": "exclude",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "buildTestApp()",
+      "target": "authenticate()",
+      "source_files": [
+        "project/Restaurant3D/backend/src/middlewares/authenticate.test.ts",
+        "project/Restaurant3D/backend/src/middlewares/authenticate.ts"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "authenticate()",
+      "target": "verifyAccessToken()",
+      "source_files": [
+        "project/Restaurant3D/backend/src/middlewares/authenticate.ts",
+        "project/Restaurant3D/backend/src/shared/security/tokens.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "exclude",
+      "target": "generated",
+      "source_files": [
+        "project/Restaurant3D/backend/tsconfig.build.json",
+        "project/Restaurant3D/backend/tsconfig.json"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "extends",
+      "why": "peripheral node `generated` unexpectedly reaches hub `exclude`"
+    },
+    {
+      "source": "exclude",
+      "target": "node_modules",
+      "source_files": [
+        "project/Restaurant3D/backend/tsconfig.build.json",
+        "project/Restaurant3D/backend/tsconfig.json"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "extends",
+      "why": "peripheral node `node_modules` unexpectedly reaches hub `exclude`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Community 5` to `Community 2`, `Community 16`, `Community 17`, `Community 18`, `Community 19`, `Community 20`, `Community 21`, `Community 23`, `Community 24`, `Community 25`?",
+      "why": "High betweenness centrality (0.123) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Community 7` to `Community 3`, `Community 5`, `Community 16`, `Community 17`, `Community 18`, `Community 19`, `Community 20`, `Community 21`?",
+      "why": "High betweenness centrality (0.096) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `dependencies` connect `Community 4` to `Community 2`?",
+      "why": "High betweenness centrality (0.053) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `semi`, `singleQuote`, `trailingComma` to the rest of the system?",
+      "why": "149 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09523809523809523 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
