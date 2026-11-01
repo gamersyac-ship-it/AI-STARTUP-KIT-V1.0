@@ -1,0 +1,9 @@
+# Salida derivada de graphify: se regenera con `graphify update .`
+# El grafo en sí (graph.json / graph.html / GRAPH_REPORT.md) sí se versiona
+# porque CLAUDE.md lo usa como índice del repositorio; lo que no tiene
+# sentido versionar es la caché de AST ni los respaldos por fecha, que son
+# cientos de archivos que cambian en cada corrida.
+graphify-out/cache/
+graphify-out/20*/
+graphify-out/.graphify_labels.json
+graphify-out/.graphify_labels.json.sig
